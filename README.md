@@ -36,19 +36,26 @@ Rule-based decision system:
 
 1. Open terminal in project folder
 2. Run:
-
-   ```
    python main.py
-   ```
-3. Enter your screen usage hours
-4. Follow the reminders
+
+OR (for GUI):
+   python gui.py
+
+---
 
 ## 📂 Project Structure
 
-* main.py → main logic
-* reminder.py → reminder system
-* logger.py → data logging
-* data.txt → stored logs
+- main.py → Main program logic  
+- reminder.py → Reminder system  
+- logger.py → Stores user data  
+- gui.py → GUI interface  
+- data.txt → Logs  
+
+---
+
+## ⚠️ Requirements
+
+- Python 3.x installed
 
 ## 📊 Output
 
